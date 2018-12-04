@@ -1,2 +1,4 @@
-rootProject.name = 'threads'
+rootProject.name = 'jusa-team'
+
+include "threads"
 

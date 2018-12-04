@@ -1,4 +1,4 @@
-package ru.faoxis.first;
+package ru.faoxis.threads.primitives;
 
 
 public class SimpleBlockingDemo {
